@@ -5,7 +5,8 @@ The problem is that electrical engineering students and professionals often work
 
 # L Meter
 
-To make L meter the capacitor is connected parallel to the Inductor(**the device we are going to measure the inductance**). When both capacitor and inductor is connected in parallel it acts as a oscillator. The microcontroller is acting as a zero crossing detector and it generates a square wave. The period of the Square Wave is measured is using
+To make L meter the capacitor is connected parallel to the Inductor(**the device we are going to measure the inductance**). When both capacitor and inductor is connected in parallel it acts as a oscillator. The microcontroller is acting as a zero crossing detector and it generates a square wave. The period of the Square Wave is measured is using Microcontroller.
+
 ![bitmap](https://github.com/user-attachments/assets/062a40f3-9918-4716-a871-ddcdec9b6fb2)
 
 
