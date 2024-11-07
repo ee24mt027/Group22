@@ -6,7 +6,8 @@ The problem is that electrical engineering students and professionals often work
 # L Meter
 
 To make L meter the capacitor is connected parallel to the Inductor(**the device we are going to measure the inductance**)
-![image](https://github.com/user-attachments/assets/6a9a30e6-983a-4521-b2e0-3210a1f5cb33)
+![bitmap](https://github.com/user-attachments/assets/062a40f3-9918-4716-a871-ddcdec9b6fb2)
+
 
 ![image](https://github.com/user-attachments/assets/8ae24fb6-8ca1-418c-ac52-9afa4e0523a3)
 
